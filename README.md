@@ -1,5 +1,5 @@
-# PythonSudokuSolver
+# Python Sudoku Solver
 
 A simple program which solves a sudoku.
 
-TODO: make a gui 
+This is only a base as I'm planing to add a gui for this project
